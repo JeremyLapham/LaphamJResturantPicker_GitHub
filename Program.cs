@@ -15,6 +15,7 @@ Console.WriteLine("");
 Console.WriteLine("Do you not know where you want to eat at? Well perfect I have the thing just for you");
 Console.WriteLine("");
 Console.WriteLine("Choose between 'Fast Food' 'Sit Down Resturant' Or 'Buffet Style Resturant'");
+Console.WriteLine("Any words between the ' ' are optoins for you to type");
 string resturantType = Console.ReadLine().ToLower();
 bool ifNumber1 = Int32.TryParse(resturantType, out justForNumber);
 if(ifNumber1 == true)
