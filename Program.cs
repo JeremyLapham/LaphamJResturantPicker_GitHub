@@ -14,7 +14,7 @@ while(keepPlaying == true)
 Console.WriteLine("");
 Console.WriteLine("Do you not know where you want to eat at? Well perfect I have the thing just for you");
 Console.WriteLine("");
-Console.WriteLine("Choose between 'Fast Food' 'Sit Down Resturant' Or 'Buffet Style Resturant '" );
+Console.WriteLine("Choose between 'Fast Food' 'Sit Down Resturant' Or 'Buffet Style Resturant'");
 string resturantType = Console.ReadLine().ToLower();
 bool ifNumber1 = Int32.TryParse(resturantType, out justForNumber);
 if(ifNumber1 == true)
@@ -168,7 +168,6 @@ else
     Console.WriteLine("");
     Console.WriteLine("Either you had a typo or you just didn't select an option.");
 }
-
 Console.WriteLine("");
 Console.WriteLine("");
 Console.WriteLine("Type 'Yes' to play again. Type 'End' to stop playing");
