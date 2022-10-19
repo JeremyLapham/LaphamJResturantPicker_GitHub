@@ -1,15 +1,30 @@
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\bin\Debug\net6.0\LaphamJResturantPicker_GitHub.exe
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\bin\Debug\net6.0\LaphamJResturantPicker_GitHub.deps.json
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\bin\Debug\net6.0\LaphamJResturantPicker_GitHub.runtimeconfig.json
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\bin\Debug\net6.0\LaphamJResturantPicker_GitHub.dll
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\bin\Debug\net6.0\LaphamJResturantPicker_GitHub.pdb
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.csproj.AssemblyReference.cache
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.AssemblyInfoInputs.cache
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.AssemblyInfo.cs
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.csproj.CoreCompileInputs.cache
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.dll
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\refint\LaphamJResturantPicker_GitHub.dll
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.pdb
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\LaphamJResturantPicker_GitHub.genruntimeconfig.cache
-C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJResturantPicker_GitHub\obj\Debug\net6.0\ref\LaphamJResturantPicker_GitHub.dll
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.exe
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.deps.json
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.runtimeconfig.json
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.dll
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.pdb
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.csproj.AssemblyReference.cache
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.AssemblyInfoInputs.cache
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.AssemblyInfo.cs
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.csproj.CoreCompileInputs.cache
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.dll
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/refint/LaphamJResturantPicker_GitHub.dll
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.pdb
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.genruntimeconfig.cache
+C:/Users/starf/OneDrive/Documents/Code Stack 22-23/Level1/GitHub_Repos.Projects/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/ref/LaphamJResturantPicker_GitHub.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.deps.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/bin/Debug/net6.0/LaphamJResturantPicker_GitHub.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/refint/LaphamJResturantPicker_GitHub.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/LaphamJResturantPicker_GitHub.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/LaphamJResturantPicker_GitHub/obj/Debug/net6.0/ref/LaphamJResturantPicker_GitHub.dll
