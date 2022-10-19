@@ -47,7 +47,7 @@ if(resturantType == "fast food")
             case 1: Console.WriteLine("Go to Wendy's"); break;
             case 2: Console.WriteLine("Go to Burger King"); break;
             case 3: Console.WriteLine("Go to McDonalds"); break;
-            case 4:  Console.WriteLine("Go to Jack In A Box");  break;
+            case 4: Console.WriteLine("Go to Jack In A Box");  break;
             case 5: Console.WriteLine("Go to Five Guys"); break;
         }
     }
