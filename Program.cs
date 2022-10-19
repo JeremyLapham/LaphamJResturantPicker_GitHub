@@ -2,7 +2,8 @@
 //10-18-22
 //Resturant Picker
 //This will ask the user what type of resturant they want and then the computer will generate a random number to choose a resturant
-//
+//Peer Review:
+
 
 
 Console.Clear();
